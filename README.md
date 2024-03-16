@@ -1,5 +1,3 @@
-# Excel-VBA
-
 # Excel VBA Chart Macro
 
 This VBA macro automatically generates a clustered bar chart based on data within a specified range in an active Excel worksheet. It customizes the chart by setting its size, data range, type, adding a title, legend, and formatting various elements for clarity and visual appeal.
